@@ -1,10 +1,10 @@
 {
   "name": "koast-db-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Abstraction of mongoDB",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "node node_modules/gulp/bin/gulp mocha"
   },
   "repository": {
     "type": "git",
