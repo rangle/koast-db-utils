@@ -22,12 +22,14 @@
   "devDependencies": {
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
+    "gulp-mocha": "^2.0.0",
     "mocha": "^2.0.1",
     "rangle-gulp": "0.0.7"
   },
   "dependencies": {
     "assert": "^1.1.2",
     "async": "^0.9.0",
+    "koast-logger": "^1.0.0",
     "module": "0.0.1",
     "mongoose": "^3.8.20",
     "path": "^0.4.9",
