@@ -31,7 +31,7 @@
     "async": "^0.9.0",
     "koast-logger": "^1.0.0",
     "module": "0.0.1",
-    "mongoose": "^3.8.20",
+    "mongoose": "^5.12.2",
     "path": "^0.4.9",
     "q": "^1.1.2",
     "underscore": "^1.7.0",
